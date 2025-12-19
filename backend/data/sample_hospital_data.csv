@@ -1,0 +1,11 @@
+date,area_code,disease,cases
+2023-01-01,AREA001,dengue,5
+2023-01-01,AREA002,malaria,2
+2023-01-02,AREA001,dengue,8
+2023-01-02,AREA002,malaria,1
+2023-01-03,AREA001,dengue,12
+2023-01-03,AREA002,malaria,3
+2023-01-04,AREA001,dengue,20
+2023-01-04,AREA002,malaria,2
+2023-01-05,AREA001,dengue,25
+2023-01-05,AREA002,malaria,0
